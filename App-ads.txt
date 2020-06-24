@@ -1,1 +1,2 @@
-hello world
+google.com, pub-7316082856356356, DIRECT, f08c47fec0942fa0
+adtiming.com, 1520, DIRECT, bf66753b8f380142
